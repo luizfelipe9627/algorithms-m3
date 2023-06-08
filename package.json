@@ -1,0 +1,20 @@
+{
+  "name": "challenge-algorithms",
+  "version": "1.0.0",
+  "description": "Desafios de algoritmos do curso de JavaScript da M3 academy",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitea.ecommercetools.com.br:22022/M3-Academy/challenge-algorithms.git"
+  },
+  "author": "m3-academy",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}

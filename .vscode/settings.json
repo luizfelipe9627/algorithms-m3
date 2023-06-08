@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    ".gitignore": true,
+    "jest.config.js": true,
+    "package-lock.json": true,
+  }
+}
