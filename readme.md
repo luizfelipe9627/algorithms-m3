@@ -1,8 +1,8 @@
-# M3 academy - desafios algoritmos 
+# M3 Academy - Desafios algoritmos 
 
 ## Introdução
 
-Este repositório contém os desafios de algoritmos da M3 academy.
+Este repositório contém os desafios de algoritmos da M3 academy já com as respostas feitas por mim.
 Dentro de cada pasta, você encontrará um arquivo README.md com as instruções do desafio.
 
 ## Antes de começar
@@ -27,7 +27,7 @@ Para executar os desafios, você precisará ter instalado em sua máquina o [Nod
 
 Você pode executar os desafios de duas formas:
   - Executar o teste de todos os desafios com o comando `npm test`.
-  - Executar o teste de um desafio específico com o comando `npm test -t .<nome-da-função-do-desafio>`
+  - Executar o teste de um desafio específico com o comando `npm test -t .<nome-da-função-do-desafio>`.
   ```shell
   npm test -t greet
   npm test -t isPrime
@@ -38,7 +38,6 @@ Você pode executar os desafios de duas formas:
   cd 01-greeting
   node index
   ```
--
 
 ## Desafios
 
