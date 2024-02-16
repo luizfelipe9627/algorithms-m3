@@ -15,6 +15,6 @@
   "type": "module",
   "license": "ISC",
   "dependencies": {
-    "jest": "^29.2.2"
+    "jest": "^29.7.0"
   }
 }
